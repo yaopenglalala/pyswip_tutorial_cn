@@ -1,4 +1,4 @@
-# start_pyswip
+# pyswip_tutorial
 pyswip的使用教程
 
 ## 第一步：安装SWI-Prolog
